@@ -34,21 +34,3 @@ if selected=="Contact":
     st.write("mobile: 8766385285")
 
 if selected=="Work Experience":
-    st.write("Company: **Phenom**")
-    
-    st.write("14th Feb 2022 - 3rd March 2023")
-    
-    st.write("Position: Product Development Engineer {Search & Personalization Team}")
-    
-    st.write("* Experience Prediction & Job-Type Classification ModelPhenom Responsibilities Architected and Implemented job type and experience classification model based on job information data to boost up the profile recommendation system. Developed supervised experience prediction model using job title and description data to improve the complete profile ratio and filtering the suitable profile for recommendation/search system. Improved the ratio of the apply clicks by ~12%")
-    
-    st.write("* Development of Applies-based recommendation widget. Responsibilities. Architected and Implementing the recommendation of the job to the candidate based on past applies of the candidate. Developing a supervised model using the job title and must have skills and a description of the JD for training the data.")
-    
-    st.write("* Data Analysis of 2.4 million data from top four clients. The features which were explored are job type, job level, experience level, doamin of the job. These features were analysed so that required amount of data and features can be fed to the model.")
-             
-
-    st.write("Company: **siwe tech**")
-    st.write("5th March 2023-Present")
-    st.write("Position: Machine Learinng Engineer")
-    st.write("On Going Project")
-    st.write("* AI based chatBot development: This project is building an app which is utilizing Large Language Model GPT and top of it Reward Model is being used. ")
